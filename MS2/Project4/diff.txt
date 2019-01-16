@@ -1,10 +1,0 @@
-
-In line number 3 of your output:
-The output should be:
-[38;5;9mBegin Testing the Program!
-But your output is: 
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cms2 Inventory1.dat Inventory2.dat CustomerOtders.dat [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
-^
-|
-Professor's character ASCII code: hex(1b), dec(27)
-un-matched character ASCII code: hex(d), dec(13)
