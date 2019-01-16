@@ -1,0 +1,9 @@
+/**********************************************************
+* Name: Elisa Ng
+* Student ID: 136265170
+* Seneca email: eng-li@myseneca.ca
+***********************************************************/
+
+Reflection W7
+
+Through this workshop I learn how to use all of the different type of library that is used with the STL Containers. For examples, the algorithms and file stream objects. Also, the implementation of all of this containers were easy at the beginning but actually trying to understand how they work and how they connect to each other took me time and a lot of research to actually get the whole content of this workshop. 

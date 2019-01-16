@@ -1,0 +1,9 @@
+/**********************************************************
+* Name: Elisa Ng
+* Student ID: 136265170
+* Seneca email: eng-li@myseneca.ca
+***********************************************************/
+
+Reflection
+
+This particular workshop was a little bit challenging for me because of the different concepts that we put in use to implement every function. Such as the vectors and the stl containers. Also, knowing how to implement and to understand how every function works really help me to expand my knowledge more about the concepts that we have learn so far in class. As usual when doing all my workshops I encounter some minor issues, such as calling the wrong libraries and causing the whole program not to work or bad spelling for some of my variables. 

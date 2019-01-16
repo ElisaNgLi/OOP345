@@ -1,0 +1,10 @@
+
+In line number 76 of your output:
+The output should be:
+Filled Chris S., Laptop[CPU]
+But your output is: 
+Filled Elliott C., Gaming PC[GPU]
+       ^
+-------|
+Professor's character ASCII code: hex(43), dec(67)
+un-matched character ASCII code: hex(45), dec(69)

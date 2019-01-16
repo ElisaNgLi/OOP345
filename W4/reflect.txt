@@ -1,0 +1,10 @@
+/**********************************************************
+* Name: Elisa Ng
+* Student ID: 136265170
+* Seneca email: eng-li@myseneca.ca
+***********************************************************/
+
+Workshop 4 - Reflection
+In this workshop I could understand more about move operators and how they work. 
+Also, while coding the Message.cpp I encounter a lot of mistakes that I couldn’t understand at the beginning of why my output didn’t show the correct messages or why the @ sign was there. Then I realize that the way I was parsing it was wrong or some part of the functions was missing. 
+Such as, when it was reading the document it would skip some lines or omit some characters. 

@@ -1,0 +1,21 @@
+Script started on Fri Oct 12 20:12:37 2018
+]0;eng-li@mtrx-node01pd:~/OOP345/W5[?1034h[eng-li@mtrx-node01pd W5]$ g++ Grades.cpp w5.cpp -Wall -std=c++0x -o m3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18P[13Pg++ Grades.cpp w5.cpp -Wall -std=c++0x -o m3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm3 g++ Grades.cpp w5.cpp -Wall -std=c++0x -o m3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18P[13Pg++ Grades.cpp w5.cpp -Wall -std=c++0x -o m3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pls[1Pg++ Grades.cpp w5.cpp -Wall -std=c++0x -o m3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm3 g++ Grades.cpp w5.cpp -Wall -std=c++0x -o m3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cm3 lsg++ Grades.cpp w5.cpp -Wall -std=c++0x -o m3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvi g++ Grades.cpp w5.cpp -Wall -std=c++0x -o m3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C..[K[[[Kws w5_prof_grades.dat
+[38;5;9mBegin Testing the Program!
+--------------------------[0m
+
+Command Line: ws w5_prof_grades.dat 
+   1022342 67.40 C+  
+   1024567 73.50 B   
+   2031456 79.30 B+  
+   6032144 53.50 D   
+   1053250 92.10 A+  
+   3026721 86.50 A   
+   7420134 62.30 C   
+   9762314 58.70 D+  
+
+[38;5;9m------------------------
+End Testing the Program![0m
+]0;eng-li@mtrx-node01pd:~/OOP345/W5[eng-li@mtrx-node01pd W5]$ exit
+exit
+
+Script done on Fri Oct 12 20:13:01 2018

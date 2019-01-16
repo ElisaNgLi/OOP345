@@ -1,0 +1,4 @@
+Command Line : m3 oop345 dps945 
+Maximum number of characters stored : 3
+0 : oop
+1 : dps

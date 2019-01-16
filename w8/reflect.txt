@@ -1,0 +1,11 @@
+ // Name: Elisa Ng
+// Seneca Student ID: 136265180
+// Seneca email: eng-li@myseneca.ca
+// Date of completion: Nov 16, 2018
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+Reflection 8:
+
+During this workshop reading about Raw pointers and Smart pointers were the key to actually completed this workshop. Also, going to some lectures notes and explanations really help me a lot during this workshop. In addition, knowing the differences between this two and how different they implement help a lot into not confusing which one was Smart or Raw. In this workshop I really learn how this two types of pointers work and the implementation of both of them. 

@@ -1,0 +1,11 @@
+// Name: Elisa Ng
+// Seneca Student ID: 136265180
+// Seneca email: eng-li@myseneca.ca
+// Date of completion: Nov 30, 2018
+//
+// I confirm that I am the only author of this file
+//   and the content was created entirely by me.
+
+Reflection Milestone
+
+During the process of doing the milestones I encounter different types of problems that It require a lot of research and time of debugging. While doing MS1 and MS2, I didn't have that much problem like MS3. The first two milestone where pretty easy to understand and do than this one. What I find more challenging about MS3 is to actually understand how the run and runProcess worked. But, once you figure how this two work the whole MS3 it will be pretty much done. Also, implementing the different concepts learn in class while doing these milestone made more knowledgeable about the different functions and libraries that we have learn so far in this course. 

@@ -1,0 +1,11 @@
+/**********************************************************
+* Name: Elisa Ng
+* Student ID: 136265170
+* Seneca email: eng-li@myseneca.ca
+***********************************************************/
+
+Workshop 5 - Reflection
+
+Trying to work and to understand the lambda function was a little bit complicated at the beginning but reading  through the notes and doing some research I could say that I have a better understanding on how it works and how it is supposed to be implemented depending on some cases or what we want to accomplish with the code.
+
+While trying to submit this workshop on Matrix, I encounter some spacing issues with the output. This happened to me like the last workshop, so I just play around with the setw() part to see which number matches the Matrix script.
